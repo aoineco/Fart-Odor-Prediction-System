@@ -8,11 +8,15 @@
 </head>
 <body>
   <form action="hoge">
-    <input type="radio" name="" id="">
-    <input type="radio" name="" id="">
-    <input type="radio" name="" id="">
-    <input type="radio" name="" id="">
-    <input type="submit" value="submit">
+    <div>
+      <input type="radio" name="" id="">
+      <input type="radio" name="" id="">
+      <input type="radio" name="" id="">
+    </div>
+    <div>
+      <input type="submit" value="submit">
+      <input type="radio" name="" id="">
+    </div>
   </form>
 
   <?php
