@@ -8,15 +8,17 @@
 </head>
 <body>
   <form action="hoge">
-    <div>
-      <input type="radio" name="" id="">
-      <input type="radio" name="" id="">
-      <input type="radio" name="" id="">
+    <div class="foods you ate">
+      <input type="checkbox">
+      <input type="checkbox">
+      <input type="checkbox">
     </div>
-    <div>
-      <input type="submit" value="submit">
-      <input type="radio" name="" id="">
+    <div class="your ativity">
+      <input type="checkbox">
+      <input type="checkbox">
+      <input type="checkbox">
     </div>
+    <input  type="submit" value="submit">
   </form>
 
   <?php
