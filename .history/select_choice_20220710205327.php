@@ -9,12 +9,12 @@
 <body>
   <form action="hoge">
     <div class="foods you ate">
-      <input type="checkbox" id=1 >
+      <input type="checkbox" id= >
       <input type="checkbox">
       <input type="checkbox">
     </div>
     <div class="your ativity">
-      <input type="checkbox" name="test" >
+      <input type="checkbox">
       <input type="checkbox">
       <input type="checkbox">
     </div>

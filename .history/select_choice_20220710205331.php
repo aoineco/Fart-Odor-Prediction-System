@@ -14,7 +14,7 @@
       <input type="checkbox">
     </div>
     <div class="your ativity">
-      <input type="checkbox" name="test" >
+      <input type="checkbox"  >
       <input type="checkbox">
       <input type="checkbox">
     </div>
