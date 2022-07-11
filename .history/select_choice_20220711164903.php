@@ -12,9 +12,8 @@
   <form method="POST" action="hoge.php" name="test">
     <div class="foods you ate">
       <input type="checkbox" id=1 class="test" value="2" checked>
-      <input type="checkbox" id=1 class="test" value="2" checked>
-      <input type="checkbox" id=1 class="test" value="2" checked>
-
+      <input type="checkbox" id=1  value="2" checked>
+      <input type="checkbox" id=1  value="2" checked>
 
     </div>
     <div class="your ativity">
